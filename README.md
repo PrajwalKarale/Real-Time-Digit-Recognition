@@ -1,2 +1,2 @@
 # Real-Time-Digit-Recognition
-This is a small attempt to make a digit recognition using web cam
+<p align="center">This is a small project that help us to recognise the digits from 0-9<p>
